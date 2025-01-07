@@ -1,0 +1,14 @@
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/bin/Debug/net8.0/IoC
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/bin/Debug/net8.0/IoC.deps.json
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/bin/Debug/net8.0/IoC.runtimeconfig.json
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/bin/Debug/net8.0/IoC.dll
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/bin/Debug/net8.0/IoC.pdb
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.AssemblyInfoInputs.cache
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.AssemblyInfo.cs
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.csproj.CoreCompileInputs.cache
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.dll
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/refint/IoC.dll
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.pdb
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/IoC.genruntimeconfig.cache
+/Users/merpassenger/RiderProjects/ioc-dip-di/IoC/obj/Debug/net8.0/ref/IoC.dll
